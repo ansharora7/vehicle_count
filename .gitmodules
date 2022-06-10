@@ -1,0 +1,6 @@
+[submodule "Yolov5_DeepSort_Pytorch/deep_sort/deep/reid"]
+	path = Yolov5_DeepSort_Pytorch/deep_sort/deep/reid
+	url = https://github.com/dongdv95/yolov5/tree/master/Yolov5_DeepSort_Pytorch
+[submodule "Yolov5_DeepSort_Pytorch/yolov5"]
+	path = Yolov5_DeepSort_Pytorch/yolov5
+	url = https://github.com/ultralytics/yolov5.git
